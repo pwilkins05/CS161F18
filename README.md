@@ -1,0 +1,1 @@
+This repository contains sample code files from CS 161C+, Fall term 2018 at Lane Community College.
